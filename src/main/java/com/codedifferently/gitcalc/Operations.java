@@ -32,4 +32,14 @@ public class Operations {
     public static int multiply(int x, int y) {
         return x * y;
     }
+
+    /**
+     * the divide function
+     * @param x
+     * @param y
+     * @return x divided by y
+     */
+    public static double divide(double x, double y) {
+        return x/y;
+    }
 }
