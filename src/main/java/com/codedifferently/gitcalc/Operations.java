@@ -9,7 +9,7 @@ public class Operations {
      * @return the sum of x and y
      */
     public static int add(int x, int y) {
-        return 0;
+        return x + y;
     }
 
     /**
@@ -19,9 +19,9 @@ public class Operations {
      * @return y taken from x
      */
     public static int subtract(int x, int y) {
-        return 0;
+        return x - y;
     }
-    
+
 
     /**
      * The multiplication function
@@ -30,6 +30,6 @@ public class Operations {
      * @return x times y
      */
     public static int multiply(int x, int y) {
-        return 0;
+        return x * y;
     }
 }
