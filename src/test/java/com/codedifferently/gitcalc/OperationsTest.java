@@ -46,4 +46,5 @@ public class OperationsTest {
         //Then
         Assert.assertEquals(expected, actual);
     }
+
 }
